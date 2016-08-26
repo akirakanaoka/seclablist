@@ -21,6 +21,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [筑波大学 機械学習/データマイニング研究室　（佐久間淳先生）](http://www.mdl.cs.tsukuba.ac.jp/index_j.html "")
 * [筑波大学 オペレーティングシステムとシステムソフトウェア研究室　（加藤和彦先生、阿部洋丈先生、岡瑞起先生、長谷部浩二先生、橋本康弘先生）](http://www.osss.cs.tsukuba.ac.jp/ "")
 * [東京電機大学 情報セキュリティ研究室　（佐々木良一先生、猪俣敦夫先生、柿崎淑郎先生）](http://www.isl.im.dendai.ac.jp/ "")
+* [東京電機大学 セキュリティシステム設計研究室　（稲村勝樹先生）](http://www.rd.dendai.ac.jp/~minamura/ "")
 * [東京理科大学 金子研究室　（金子敏信先生、五十嵐保隆先生）](http://www.rs.noda.sut.ac.jp/~kanekolb/hp/mysite2/index.htm "")　
 * [東京理科大学 岩村研究室　（岩村惠市先生、姜玄浩先生）](http://www.sec.ee.kagu.tus.ac.jp/iwamura-lab/ "")
 * [神戸大学 情報通信研究室（ES3）　（森井昌克先生、白石善明先生、高野泰洋先生）](http://www.research.kobe-u.ac.jp/eng-es3/ "")
@@ -138,7 +139,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [慶應義塾大学　手塚悟先生](http://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=9afdaf3c9bfdbb1a)
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/department/systems/security/ "")
  - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
-* [東京電機大学　稲村勝樹先生](http://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymdogdysggy "")
 * [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
 
 ## その他
