@@ -139,6 +139,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/department/systems/security/ "")
  - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
 * [東京電機大学　稲村勝樹先生](http://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymdogdysggy "")
+* [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](http://researchmap.jp/search/?keyword=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&op=search "")
