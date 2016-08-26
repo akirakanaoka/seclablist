@@ -72,7 +72,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [東京工業大学 田中研究室　（田中圭介先生）](http://www.is.titech.ac.jp/~keisuke/lab/index-j.html "")
 * [広島大学 計算機基礎学研究室　（中西透先生、今井克暢先生）](http://www.iec.hiroshima-u.ac.jp/ "")
 * [九州大学 櫻井研究室　（櫻井幸一先生、PARTHA SARATHI ROY先生）](http://itslab.csce.kyushu-u.ac.jp/index-j.html "")
-* [九州大学 高木研究室　（高木剛先生、安田雅哉先生、モロゾフ キリル先生、Duong Hoang Dung先生）]()
+* [九州大学 高木研究室　（高木剛先生、安田雅哉先生、Duong Hoang Dung先生）](http://imi.kyushu-u.ac.jp/~takagi/)
 * [大阪大学 藤原研究室　（藤原融先生、石原靖哲先生、矢内直人先生）]()
 * [福井大学 情報通信システム研究室　（廣瀬勝一先生、田辺英彦先生）]()
 * [東北大学 青木研究室　（青木孝文先生、本間尚文先生、伊藤康一先生）]()
