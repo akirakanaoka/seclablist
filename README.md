@@ -77,6 +77,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [九州大学 櫻井研究室　（櫻井幸一先生、PARTHA SARATHI ROY先生）](http://itslab.csce.kyushu-u.ac.jp/index-j.html)
 * [九州大学 高木研究室　（高木剛先生、安田雅哉先生、Duong Hoang Dung先生）](http://imi.kyushu-u.ac.jp/~takagi/)
 * [大阪大学 藤原研究室　（藤原融先生、石原靖哲先生、矢内直人先生）](http://www-infosec.ist.osaka-u.ac.jp/)
+* [大阪大学 宮地研究室　（宮地充子先生、蘇春華先生、鄭振牟先生、田中覚先生）](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/index-jp.html)
 * [福井大学 情報通信システム研究室　（廣瀬勝一先生、田辺英彦先生）](http://fuee.u-fukui.ac.jp/~ics/)
 * [東北大学 青木研究室　（青木孝文先生、伊藤康一先生）](http://www.aoki.ecei.tohoku.ac.jp/index-j.html)
 * [工学院大学 分散アルゴリズム研究室　（真鍋義文先生）](http://www.ns.kogakuin.ac.jp/~wwa1056/)
@@ -139,6 +140,11 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/department/systems/security/)
  - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
 * [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
+* [筑波大学　大山恵弘先生](http://www.cs.tsukuba.ac.jp/~oyama/index-j.html)
+* [情報セキュリティ大学院大学　松井俊浩先生](http://www.iisec.ac.jp/education/professors/matsui.html) 
+* [工学院大学　情報セキュリティ研究室（小野諭先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4102.html)
+* [工学院大学　セキュリティ科学研究室（藤川真樹先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4115.html)
+* [東京工業大学　キリル モロゾフ先生](http://www.is.c.titech.ac.jp/~morozov/)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](http://researchmap.jp/search/?keyword=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&op=search)
