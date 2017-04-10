@@ -54,7 +54,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [名古屋大学 村瀬・嶋田研究室　（村瀬勉先生、嶋田創先生、山口由紀子先生）](http://www.net.itc.nagoya-u.ac.jp/lab/)
 * [大妻女子大学 市村研究室　（市村哲先生）](http://www.sis.otsuma.ac.jp/i-lab/)
 * [北陸先端科学技術大学院大学 宮地研究室　（宮地充子先生、面和成先生、布田裕一先生、蘇春華先生、田中覚先生）](http://grampus.jaist.ac.jp/miyaji-lab/index-jp.html)
- - [面研究室　（面和成先生）](http://www.jaist.ac.jp/is/labs/omote-lab/index.html)
 * [北陸先端科学技術大学院大学 篠田研究室　（篠田陽一先生、知念賢一先生、宇多仁先生）](http://shinoda-www.jaist.ac.jp/)
 * [情報セキュリティ大学院大学 田中研究室　（田中英彦先生、橋本正樹先生）](http://lab.iisec.ac.jp/~tanaka_lab/)
  - [橋本研究室　（橋本正樹先生）](http://lab.iisec.ac.jp/~hashimoto_lab/)
