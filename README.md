@@ -40,7 +40,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [立命館大学 サイバーセキュリティ研究室　（上原哲太郎先生）](http://www.cysec.cs.ritsumei.ac.jp/)
 * [立命館大学 毛利研究室（システムソフトウェア研究室）　（毛利公一先生）](http://www.asl.cs.ritsumei.ac.jp/)
 * [横浜国立大学 情報・物理セキュリティ研究拠点　（松本勉先生、四方順司先生、吉岡克成先生、藤田彬先生）](http://ipsr.ynu.ac.jp/)
- * [四方研究室　（四方順司先生）](http://www.slab.ynu.ac.jp/)
+    * [四方研究室　（四方順司先生）](http://www.slab.ynu.ac.jp/)
 * [早稲田大学 後藤研究室　（後藤滋樹先生）](http://www.goto.info.waseda.ac.jp/index-j.html)
 * [早稲田大学 森達哉研究室　（森達哉先生）](http://nsl.cs.waseda.ac.jp/)
 * [東京大学 松浦研究室　（松浦幹太先生、Miodrag Mihaljevic先生）](http://kmlab.iis.u-tokyo.ac.jp/index_j.html)
