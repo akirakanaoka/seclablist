@@ -49,6 +49,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [東京大学 品川研究室　（品川高廣先生）](http://www.os.ecc.u-tokyo.ac.jp/)
 * [東京大学 関谷研究室　（関谷勇司先生）](https://www.sekiya-lab.info/)
 * [東京大学　山口利恵研究室　（山口利恵先生）](http://www.yamagula.ic.i.u-tokyo.ac.jp/)
+* [東京大学 高木研究室　（高木剛先生、高安敦先生）](http://crypto.mist.i.u-tokyo.ac.jp/)
 * [京都工芸繊維大学 情報セキュリティ研究室　（稲葉宏幸先生）](http://www.sec.is.kit.ac.jp/)
 * [名古屋大学 情報セキュリティ研究グループ　（岩田哲先生）](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/top-j.html)
 * [名古屋大学 村瀬・嶋田研究室　（村瀬勉先生、嶋田創先生、山口由紀子先生）](http://www.net.itc.nagoya-u.ac.jp/lab/)
