@@ -56,6 +56,8 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [大妻女子大学 市村研究室　（市村哲先生）](http://www.sis.otsuma.ac.jp/i-lab/)
 * [北陸先端科学技術大学院大学 宮地研究室　（宮地充子先生、面和成先生、布田裕一先生、蘇春華先生、田中覚先生）](http://grampus.jaist.ac.jp/miyaji-lab/index-jp.html)
 * [北陸先端科学技術大学院大学 篠田研究室　（篠田陽一先生、知念賢一先生、宇多仁先生）](http://shinoda-www.jaist.ac.jp/)
+    - [北陸先端科学技術大学院大学 知念研究室　（知念賢一先生）](http://www.jaist.ac.jp/is/labs/chinen-lab/)
+* [北陸先端科学技術大学院大学 Beuran研究室　（Razvan Beuran先生）](http://www.jaist.ac.jp/is/labs/beuran-lab/)
 * [情報セキュリティ大学院大学 田中研究室　（田中英彦先生、橋本正樹先生）](http://lab.iisec.ac.jp/~tanaka_lab/)
     - [橋本研究室　（橋本正樹先生）](http://lab.iisec.ac.jp/~hashimoto_lab/)
 * [情報セキュリティ大学院大学 後藤研究室　（後藤厚宏先生）](http://lab.iisec.ac.jp/~goto_lab/)
