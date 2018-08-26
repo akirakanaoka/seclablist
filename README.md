@@ -18,7 +18,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 
 
 * [筑波大学 暗号・情報セキュリティ研究室　（西出隆志先生）](http://www.cipher.risk.tsukuba.ac.jp/)
-* [筑波大学 機械学習/データマイニング研究室　（佐久間淳先生）](http://www.mdl.cs.tsukuba.ac.jp/index_j.html)
+* [筑波大学 機械学習/データマイニング研究室　（佐久間淳先生）](http://www.mdl.cs.tsukuba.ac.jp/ja/)
 * [筑波大学 オペレーティングシステムとシステムソフトウェア研究室　（加藤和彦先生、長谷部浩二先生、阿部洋丈先生、岡瑞起先生）](http://www.osss.cs.tsukuba.ac.jp/)
 * [筑波大学 ソフトウェア研究室（新城靖先生、佐藤聡先生、中井央先生）](http://www.softlab.cs.tsukuba.ac.jp/) 
 * [筑波大学 面研究室　（面和成先生）](http://www.risk.tsukuba.ac.jp/omote-lab/)
@@ -29,7 +29,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [神戸大学 情報通信研究室（ES3）　（森井昌克先生、白石善明先生、高野泰洋先生）](http://www.research.kobe-u.ac.jp/eng-es3/)
 * [明治大学 菊池研究室　（菊池浩明先生）](http://www.isc.meiji.ac.jp/~kikn/)
 * [明治大学 情報セキュリティ研究室　（齋藤孝道先生）](https://www.saitolab.org/)
-* [静岡大学 西垣研究室　（西垣正勝先生）](http://minamigaki.cs.inf.shizuoka.ac.jp/)
+* [静岡大学 西垣研究室　（西垣正勝先生）](https://wwp.shizuoka.ac.jp/nishigaki/)
 * [岩手県立大学 コミュニケーション学講座　（齊藤義仰先生、西岡大先生）](http://www.comm.soft.iwate-pu.ac.jp/)
 * [岩手県立大学 分散システム学講座　（高田豊雄先生、ベッドB.ビスタ先生、小倉加奈代先生）](https://callisto.comlab.soft.iwate-pu.ac.jp/)
 * [岡山大学 山内（田端）研究室　（山内利宏先生）](http://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)
