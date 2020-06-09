@@ -97,6 +97,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [神奈川工科大学 マナブ研　（岡本学先生）](http://nmana.kanagawa-it.ac.jp/)
 * [慶應義塾大学 河野研究室　（河野健二先生）](http://www.sslab.ics.keio.ac.jp/)
 * [慶應義塾大学 笹瀬研究室　（笹瀬巌先生）](http://www.sasase.ics.keio.ac.jp/)
+* [慶應義塾大学 手塚研究室・村井合同研究室 Digital Trust　（手塚悟先生）](https://d-trust.sfc.wide.ad.jp)
 * [慶應義塾大学　武田圭史研究室　（武田圭史先生）](http://lab.keioac.jp)
 * [名古屋工業大学 齋藤研究室　（齋藤彰一先生）](https://www.ssn.nitech.ac.jp/)
 * [はこだて未来大学 中村嘉隆研究室　（中村嘉隆先生）](https://www.facebook.com/FunTakahashiNakamuraLab/)
@@ -138,7 +139,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [鳴門教育大学　曽根直人先生](http://www.naruto-u.ac.jp/edb/researcher/2010121603552/)
 * [九州工業大学　中村豊先生](http://www.isc.kyutech.ac.jp/TandR/yutaka-n/j-yutaka-nakamura.html)
 * [国立情報学研究所　高倉弘喜先生](http://www.takakura.com/hiroki/)
-* [慶應義塾大学　手塚悟先生](http://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=9afdaf3c9bfdbb1a)
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/siebold/sec/)
  - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
 * [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
