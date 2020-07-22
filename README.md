@@ -44,6 +44,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
     * [四方研究室　（四方順司先生）](http://www.slab.ynu.ac.jp/)
 * [早稲田大学 後藤研究室　（後藤滋樹先生）](http://www.goto.info.waseda.ac.jp/index-j.html)
 * [早稲田大学 森達哉研究室　（森達哉先生）](http://nsl.cs.waseda.ac.jp/)
+* [早稲田大学 佐古研究室　（佐古和恵先生）](https://sako-lab.jp/)
 * [東京大学 松浦研究室　（松浦幹太先生、Miodrag Mihaljevic先生）](http://kmlab.iis.u-tokyo.ac.jp/index_j.html)
 * [東京大学 山本-國廣研究室　（山本博資先生、國廣昇先生、若桑江友里先生）](http://www.it.k.u-tokyo.ac.jp/)
 * [東京大学 中川研究室　（中川裕志先生、荒井ひろみ先生）](http://www.r.dl.itc.u-tokyo.ac.jp/)
@@ -153,6 +154,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [九州大学　小出洋先生](http://ri2t.kyushu-u.ac.jp/faculty-list-page)
 * [豊橋技術科学大学 鈴木幸太郎先生](https://www.tut.ac.jp/university/faculty/)
 * [東京通信大学 角尾幸保先生](https://www.internet.ac.jp/faculty/teacher.html)
+* [創価大学 鳥居直哉先生](https://www.soka.ac.jp/faculty-profiles/naoya-torii/)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](http://researchmap.jp/search/?keyword=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&op=search)
