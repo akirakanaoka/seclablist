@@ -12,7 +12,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * 2015年6月5日追記・修正。
 * 2016年4月4日追記・修正。
 * 2016年4月6日追記・修正。
-* 2016年8月26日 GitHubに移行開始（以降の修正はここの編集履歴を見てください）
+* 2016年8月26日 GitHubに移行開始（***以降の修正はここの編集履歴を見てください***）
 
 ## 自前で研究室Webページを持っている研究室
 
@@ -22,6 +22,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [筑波大学 オペレーティングシステムとシステムソフトウェア研究室　（加藤和彦先生、長谷部浩二先生、阿部洋丈先生、岡瑞起先生）](http://www.osss.cs.tsukuba.ac.jp/)
 * [筑波大学 ソフトウェア研究室（新城靖先生、佐藤聡先生、中井央先生）](http://www.softlab.cs.tsukuba.ac.jp/) 
 * [筑波大学 面研究室　（面和成先生）](http://www.risk.tsukuba.ac.jp/omote-lab/)
+* [筑波大学 システムセキュリティ研究室　（大山恵弘先生）](https://syssec.cs.tsukuba.ac.jp/wp/)
 * [東京電機大学 情報セキュリティ研究室　（佐々木良一先生、猪俣敦夫先生、柿崎淑郎先生）](http://www.isl.im.dendai.ac.jp/)
 * [東京電機大学 セキュリティシステム設計研究室　（稲村勝樹先生）](http://www.rd.dendai.ac.jp/~minamura/)
 * [東京理科大学 金子研究室　（金子敏信先生、五十嵐保隆先生）](http://www.rs.noda.sut.ac.jp/~kanekolb/hp/mysite2/index.htm)　
@@ -100,6 +101,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [慶應義塾大学 笹瀬研究室　（笹瀬巌先生）](http://www.sasase.ics.keio.ac.jp/)
 * [慶應義塾大学 手塚研究室・村井合同研究室 Digital Trust　（手塚悟先生）](https://d-trust.sfc.wide.ad.jp)
 * [慶應義塾大学　武田圭史研究室　（武田圭史先生）](http://lab.keioac.jp)
+* [慶應義塾大学　サイバーセキュリティ研究センター　（砂原秀樹先生、河野健二先生、中村修先生、武田圭史先生、村井純先生、三次仁先生、植原啓介先生、岡部正勝先生、新保史生先生、手塚悟	先生、鈴木茂哉先生、山内正人先生）](https://cysec-lab.keio.ac.jp/)
 * [名古屋工業大学 齋藤研究室　（齋藤彰一先生）](https://www.ssn.nitech.ac.jp/)
 * [はこだて未来大学 中村嘉隆研究室　（中村嘉隆先生）](https://www.facebook.com/FunTakahashiNakamuraLab/)
 * [九州工業大学 光来研究室　（光来健一先生）](http://www.ksl.ci.kyutech.ac.jp/index-j.html)
@@ -143,7 +145,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/siebold/sec/)
  - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
 * [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
-* [筑波大学　大山恵弘先生](http://www.cs.tsukuba.ac.jp/~oyama/index-j.html)
 * [情報セキュリティ大学院大学　松井俊浩先生](http://www.iisec.ac.jp/education/professors/matsui.html) 
 * [工学院大学　情報セキュリティ研究室（小野諭先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4102.html)
 * [工学院大学　セキュリティ科学研究室（藤川真樹先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4115.html)
