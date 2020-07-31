@@ -146,7 +146,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [情報セキュリティ大学院大学　松井俊浩先生](http://www.iisec.ac.jp/education/professors/matsui.html) 
 * [工学院大学　情報セキュリティ研究室（小野諭先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4102.html)
 * [工学院大学　セキュリティ科学研究室（藤川真樹先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4115.html)
-* [東京工業大学　キリル モロゾフ先生](http://www.is.c.titech.ac.jp/~morozov/)
 * [奈良先端科学技術大学院大学 情報セキュリティ工学研究室　（林優一先生、藤本大介先生）](http://isw3.naist.jp/Contents/Research/cs-09-ja.html)
 * [神戸大学　林卓也先生](http://www.eedept.kobe-u.ac.jp/staff/member.html)
 * [兵庫県立大学　五十部孝典先生](https://www.ai.u-hyogo.ac.jp/study/index.html)
