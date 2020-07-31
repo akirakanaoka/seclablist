@@ -114,6 +114,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [中京大学　インターネット崩壊研究室　（鈴木常彦先生）](http://www.suzuki.sist.chukyo-u.ac.jp/)
 * [東京工科大学　インターネットセキュリティとＯＳ研究室　（木下俊之先生）](http://www2.teu.ac.jp/miki/index.html/index.html)
 * [金沢大学 情報セキュリティ研究室　（満保雅浩先生、安永憲司先生）](http://iseclab.ec.t.kanazawa-u.ac.jp/ja/index.html)
+* [工学院大学　セキュリティ科学研究室　（藤川真樹先生）](http://www.ns.kogakuin.ac.jp/~jt13557/index.html)
 * [東邦大学 金岡研究室　（金岡晃）](https://www.klab.is.sci.toho-u.ac.jp/)
 
 ## 自前の研究室Webページを持たない先生方
