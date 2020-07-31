@@ -120,6 +120,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [工学院大学　セキュリティ科学研究室　（藤川真樹先生）](http://www.ns.kogakuin.ac.jp/~jt13557/index.html)
 * [三重大学　コンピュータソフトウェア研究室　（河内亮周先生、山田俊行先生）](http://www.cs.info.mie-u.ac.jp/)
 * [東邦大学 金岡研究室　（金岡晃）](https://www.klab.is.sci.toho-u.ac.jp/)
+* [兵庫県立大学大学院 応用情報科学研究科 （五十部孝典先生）](https://www.ai.u-hyogo.ac.jp/~isobe/) ※ 応用情報科学研究科は大学院のみ
 
 ## 自前の研究室Webページを持たない先生方
 研究室Webの中には、学科などの部署単位でひとまとめで作っている（＝研究室自身が立ち上げたわけではない）ページがあるのと、所属（たとえば○○センターなど）によっては教員が研究室を持たないケースもあります。そういう研究室や先生方は載っておりませんでした。
@@ -154,7 +155,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [工学院大学　サイバーセキュリティ研究室（小林太郎先生）](https://www.kogakuin.ac.jp/faculty/lab/info_lab148.html)
 * [奈良先端科学技術大学院大学 情報セキュリティ工学研究室　（林優一先生、藤本大介先生）](http://isw3.naist.jp/Contents/Research/cs-09-ja.html)
 * [神戸大学　林卓也先生](http://www.eedept.kobe-u.ac.jp/staff/member.html)
-* [兵庫県立大学　五十部孝典先生](https://www.ai.u-hyogo.ac.jp/study/index.html)
 * [九州大学　小出洋先生](http://ri2t.kyushu-u.ac.jp/faculty-list-page)
 * [豊橋技術科学大学 鈴木幸太郎先生](https://www.tut.ac.jp/university/faculty/)
 * [東京通信大学 角尾幸保先生](https://www.internet.ac.jp/faculty/teacher.html)
