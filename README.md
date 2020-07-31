@@ -24,7 +24,6 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [筑波大学 面研究室　（面和成先生）](http://www.risk.tsukuba.ac.jp/omote-lab/)
 * [筑波大学 システムセキュリティ研究室　（大山恵弘先生）](https://syssec.cs.tsukuba.ac.jp/wp/)
 * [東京電機大学 情報セキュリティ研究室　（佐々木良一先生、猪俣敦夫先生、柿崎淑郎先生）](http://www.isl.im.dendai.ac.jp/)
-* [東京電機大学 セキュリティシステム設計研究室　（稲村勝樹先生）](http://www.rd.dendai.ac.jp/~minamura/)
 * [東京理科大学 金子研究室　（金子敏信先生、五十嵐保隆先生）](http://www.rs.noda.sut.ac.jp/~kanekolb/hp/mysite2/index.htm)　
 * [東京理科大学 岩村研究室　（岩村惠市先生、姜玄浩先生）](http://www.sec.ee.kagu.tus.ac.jp/)
 * [神戸大学 情報通信研究室（ES3）　（森井昌克先生、白石善明先生、高野泰洋先生）](http://www.research.kobe-u.ac.jp/eng-es3/)
@@ -85,6 +84,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [九州大学 高木研究室　（高木剛先生）](http://imi.kyushu-u.ac.jp/~takagi/)
 * [大阪大学 藤原研究室　（藤原融先生、矢内直人先生）](http://www-infosec.ist.osaka-u.ac.jp/)
 * [大阪大学 宮地研究室　（宮地充子先生、河内亮周先生、鄭振牟先生、中正和久先生、ボネフランソワ先生、奥村伸也先生、周彤先生）](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/index-jp.html)
+* [大阪大学　情報セキュリティ　猪俣研究室　（猪俣敦夫先生）](http://tama.sirt.osaka/)
 * [福井大学 情報通信システム研究室　（廣瀬勝一先生、田辺英彦先生）](http://fuee.u-fukui.ac.jp/~ics/)
 * [東北大学 青木研究室　（青木孝文先生、伊藤康一先生）](http://www.aoki.ecei.tohoku.ac.jp/index-j.html)
 * [工学院大学 分散アルゴリズム研究室　（真鍋義文先生）](http://www.ns.kogakuin.ac.jp/~wwa1056/)
@@ -115,6 +115,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [東京工科大学　インターネットセキュリティとＯＳ研究室　（木下俊之先生）](http://www2.teu.ac.jp/miki/index.html/index.html)
 * [金沢大学 情報セキュリティ研究室　（満保雅浩先生、安永憲司先生）](http://iseclab.ec.t.kanazawa-u.ac.jp/ja/index.html)
 * [工学院大学　セキュリティ科学研究室　（藤川真樹先生）](http://www.ns.kogakuin.ac.jp/~jt13557/index.html)
+* [三重大学　コンピュータソフトウェア研究室　（河内亮周先生、山田俊行先生）](http://www.cs.info.mie-u.ac.jp/)
 * [東邦大学 金岡研究室　（金岡晃）](https://www.klab.is.sci.toho-u.ac.jp/)
 
 ## 自前の研究室Webページを持たない先生方
