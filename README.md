@@ -31,6 +31,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [明治大学 菊池研究室　（菊池浩明先生）](https://windy.mind.meiji.ac.jp/)
 * [明治大学 情報セキュリティ研究室　（齋藤孝道先生）](https://www.saitolab.org/)
 * [静岡大学 西垣研究室　（西垣正勝先生）](https://wwp.shizuoka.ac.jp/nishigaki/)
+* [静岡大学 大木哲史研究室　（大木哲史先生）](https://sec.inf.shizuoka.ac.jp/)
 * [岩手県立大学 分散システム学講座　（高田豊雄先生、ベッドB.ビスタ先生、小倉加奈代先生）](https://callisto.comlab.soft.iwate-pu.ac.jp/)
 * [岡山大学 山内研究室　（山内利宏先生）](http://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)
 * [岡山大学 野上・日下研　（野上保之先生、日下卓也先生、小寺雄太先生）](http://isec.ec.okayama-u.ac.jp/home/index_jp.html)
@@ -162,7 +163,9 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [神奈川工科大学 画像応用研究室　（上平員丈先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/uehira.html)
 * [神奈川工科大学 ネットワークセキュリティ研究室　（岡崎美蘭先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/okazaki.html)
 * [神奈川工科大学 コンピュータウイルス対策研究室　（岡本剛先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/okamoto.html)
-
+* [文教大学 青木和麻呂先生](http://www.bunkyo.ac.jp/faculty/fac-info/information-systems/faculty/index.html)
+* [秋田県立大学 山口高康先生](https://www.akita-pu.ac.jp/stic/souran/scholar/detail.php?id=356)
+* [立教大学 安田雅哉先生](http://univdb.rikkyo.ac.jp/view?l=ja&u=100002214&k=%E5%AE%89%E7%94%B0%E3%80%80%E9%9B%85%E5%93%89&kc=1&sm=keyword&sl=ja&sp=1)
 
 
 ## その他
