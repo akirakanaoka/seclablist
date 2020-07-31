@@ -123,6 +123,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [兵庫県立大学大学院 IoTシステム研究室　（中本幸一先生）](http://eus-lab1.sakura.ne.jp/) 
 * [兵庫県立大学大学院 暗号・情報セキュリティ研究グループ　（五十部孝典先生）](https://www.ai.u-hyogo.ac.jp/~isobe/) 
 * [兵庫県立大学大学院 セキュアアーキテクチャ研究室　（栗原淳先生）](https://secarchlab.github.io/) 
+* [法政大学 金井敦研究室　（金井敦先生）](https://kanai-lab.k.hosei.ac.jp/)
 * [東邦大学 金岡研究室　（金岡晃）](https://www.klab.is.sci.toho-u.ac.jp/)
 
 ## 自前の研究室Webページを持たない先生方
@@ -131,37 +132,38 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 ただ、そういう情報もあったら嬉しいという方はいらっしゃるようなので、知ってる限り載せていこうと思います。こちらも順不同。
 
 * [法政大学　尾花賢先生](https://cis.k.hosei.ac.jp/info/faculty/computer/obana.html)
-* [法政大学　金井敦先生](http://ai.k.hosei.ac.jp/staff/kanai)
 * [神奈川大学　森田光先生](http://professor.kanagawa-u.ac.jp/eng/systems/prof06.html)
 * [神奈川大学　暗号システム研究室　（藤岡淳先生、佐々木太良先生）](http://www.is.kanagawa-u.ac.jp/lab/cryptography.html)
-* [はこだて未来大学　白勢政明先生](http://www.fun.ac.jp/research/faculty_members/masaakishirase/)
-* [東京工業大学　藤崎英一郎研究室　（藤崎英一郎先生）](http://www.ip.titech.ac.jp/staff2014/fujisaki.pdf)
+* [はこだて未来大学　白勢政明先生](https://www.fun.ac.jp/faculty/shirase-masaaki)
+* [北陸先端科学技術大学院大学　藤﨑研究室　（藤﨑英一郎先生）](https://www.jaist.ac.jp/areas/sn/laboratory/fujisaki.html)
 * [東京工科大学　情報セキュリティ研究室　（宇田隆哉先生）](http://www.teu.ac.jp/info/lab/project/com/dep.html?id=121)
 * [千葉大学　多田充先生](http://researchmap.jp/m.tada)
 * [筑波技術大学　岡本健先生](http://www.tsukuba-tech.ac.jp/department/hs/hs_staffs.html#OKAMOTO_TAKESHI)
 * [富山大学 沖野浩二先生](http://evaweb.u-toyama.ac.jp/html/74_ja.html)
 * [弘前大学 長瀬智行先生](http://hue2.jm.hirosaki-u.ac.jp/html/592_ja.html)
-* [宮崎大学 岡崎直宣先生](https://srhumdb.miyazaki-u.ac.jp/webopen/search?method=view&id=61)
+* [宮崎大学 岡崎直宣先生](https://srhumdb.miyazaki-u.ac.jp/html/61_ja.html)
 * [関西大学 桑門秀典先生](http://www.kansai-u.ac.jp/Fc_inf/fm/staff/kuwakado.html)
-* [九州産業大学 下川俊彦先生](http://www.is.kyusan-u.ac.jp/~toshi/index-j.html)
+* [九州産業大学 下川俊彦先生](http://www.is.kyusan-u.ac.jp/~toshi/)
 * [信州大学 田中清先生](http://soar-rd.shinshu-u.ac.jp/profile/ja.WUnUbpkh.html)
-* [佐賀大学 堀良彰先生](http://evalwww.cc.saga-u.ac.jp/search/IST?ISTActId=FINDJPDetail&userId=100000317)
+* [佐賀大学 堀良彰先生](https://research.dl.saga-u.ac.jp/profile/ja.0fa3191b99e2d474.html)
 * [静岡理工科大学 情報・物理セキュリティ研究室　（大石和臣先生）](http://www.sist.ac.jp/thlab/oishi.html)
-* [北九州市立大学　佐藤敬先生](http://www.kitakyu-u.ac.jp/env/subject/d-media/Takashi_Satoh/)
+* [北九州市立大学　佐藤敬先生](https://www.kitakyu-u.ac.jp/env/faculty/d-media/introduction/takashi-satoh.html)
 * [鳴門教育大学　曽根直人先生](http://www.naruto-u.ac.jp/edb/researcher/2010121603552/)
-* [九州工業大学　中村豊先生](http://www.isc.kyutech.ac.jp/TandR/yutaka-n/j-yutaka-nakamura.html)
 * [国立情報学研究所　高倉弘喜先生](http://www.takakura.com/hiroki/)
 * [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/siebold/sec/)
- - 伊藤憲一先生、加藤雅彦先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、永野哲也先生、松崎なつめ先生、山口文彦先生、穴田啓晃先生、松田健先生
-* [津田塾大学　村山優子先生](http://www.tsuda.ac.jp/faculty/dept-cs/teacher.html)
-* [工学院大学　セキュリティ科学研究室（藤川真樹先生）](http://www.kogakuin.ac.jp/faculty/department/informatics/1j2/cslabo/4115.html)
+ - 日下部茂先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、松崎なつめ先生、加藤雅彦先生、山口文彦先生、穴田啓晃先生、岡田雅之先生、喜多義弘先生、齋藤正也先生
+* [津田塾大学　大塚亜未先生](http://kgpublic.tsuda.ac.jp/view?l=ja&u=100000389&a2=0000001&a3=0000004&k=%E5%A4%A7%E5%A1%9A&kc=1&o=namea&pp=10&sm=affiliation&sl=ja&sp=1)
+* [工学院大学　セキュリティ科学研究室（藤川真樹先生）](https://www.kogakuin.ac.jp/faculty/lab/info_lab147.html)
 * [工学院大学　サイバーセキュリティ研究室（小林太郎先生）](https://www.kogakuin.ac.jp/faculty/lab/info_lab148.html)
-* [奈良先端科学技術大学院大学 情報セキュリティ工学研究室　（林優一先生、藤本大介先生）](http://isw3.naist.jp/Contents/Research/cs-09-ja.html)
-* [神戸大学　林卓也先生](http://www.eedept.kobe-u.ac.jp/staff/member.html)
-* [九州大学　小出洋先生](http://ri2t.kyushu-u.ac.jp/faculty-list-page)
-* [豊橋技術科学大学 鈴木幸太郎先生](https://www.tut.ac.jp/university/faculty/)
-* [東京通信大学 角尾幸保先生](https://www.internet.ac.jp/faculty/teacher.html)
+* [九州大学　小出洋先生](http://www.koidelab.net/koide/koide/Welcome.html)
+* [豊橋技術科学大学 鈴木幸太郎先生](https://www.tut.ac.jp/university/faculty/cs/post_52.html)
+* [東京通信大学 角尾幸保先生](https://campus.internet.ac.jp/faculty/teacher/tsunoo_yukiyasu?utm_campaign=DA)
 * [創価大学 鳥居直哉先生](https://www.soka.ac.jp/faculty-profiles/naoya-torii/)
+* [神奈川工科大学 画像応用研究室　（上平員丈先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/uehira.html)
+* [神奈川工科大学 ネットワークセキュリティ研究室　（岡崎美蘭先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/okazaki.html)
+* [神奈川工科大学 コンピュータウイルス対策研究室　（岡本剛先生）](https://www.kait.jp/ug_gr/undergrad/info_science/infoNW_com/academic/okamoto.html)
+
+
 
 ## その他
-[ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](http://researchmap.jp/search/?keyword=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&op=search)
+[ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](https://researchmap.jp/researchers?research_interests%5Bkeyword%5D=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3)
