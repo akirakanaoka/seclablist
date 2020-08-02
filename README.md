@@ -36,7 +36,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [岡山大学 山内研究室　（山内利宏先生）](http://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)
 * [岡山大学 野上・日下研　（野上保之先生、日下卓也先生、小寺雄太先生）](http://isec.ec.okayama-u.ac.jp/home/index_jp.html)
 * [岡山大学 分散システム構成学研究室　（舩曵信生先生、栗林稔先生）](http://www.ec.okayama-u.ac.jp/~dist/)
-* [岡山大学 計算機基礎学研究室　（中西透先生、北須賀輝明先生、今井克暢先生）](http://www.iec.hiroshima-u.ac.jp/)
+* [広島大学 計算機基礎学研究室　（中西透先生、北須賀輝明先生、今井克暢先生）](http://www.iec.hiroshima-u.ac.jp/)
 * [奈良先端科学技術大学院大学 情報基盤システム学研究室　（藤川和利先生、新井イスマイル先生、垣内正年先生、油谷暁先生）](http://inet-lab.naist.jp/about-inet-lab/)
 * [奈良先端科学技術大学院大学 サイバーレジリエンス構成学研究室　（門林雄基先生、妙中雄三先生、Doudou Fall先生）](http://iplab.naist.jp/)
 * [奈良先端科学技術大学院大学 情報セキュリティ工学研究室　（林優一先生、藤本大介先生、キムヨンウ先生）](http://www.iselab.jp)
@@ -52,6 +52,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [東京大学 関谷研究室　（関谷勇司先生）](https://www.sekiya-lab.info/)
 * [東京大学 山口利恵研究室　（山口利恵先生、Mhd Irvan先生）](http://www.yamagula.ic.i.u-tokyo.ac.jp/)
 * [東京大学 高木・縫田研究室　（高木剛先生、縫田光司先生、工藤桃成先生）](http://crypto.mist.i.u-tokyo.ac.jp/)
+* [東京大学 宮本大輔研究室　（宮本大輔先生）](https://www.iplove.net/)
 * [京都工芸繊維大学 情報セキュリティ研究室　（稲葉宏幸先生、Lu Chen先生）](http://www.sec.is.kit.ac.jp/)
 * [名古屋大学 情報セキュリティ研究グループ　（岩田哲先生）](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/top-j.html)
 * [名古屋大学 村瀬・嶋田研究室　（村瀬勉先生、嶋田創先生、山口由紀子先生）](http://www.net.itc.nagoya-u.ac.jp/lab/)
@@ -166,7 +167,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [文教大学 青木和麻呂先生](http://www.bunkyo.ac.jp/faculty/fac-info/information-systems/faculty/index.html)
 * [秋田県立大学 山口高康先生](https://www.akita-pu.ac.jp/stic/souran/scholar/detail.php?id=356)
 * [立教大学 安田雅哉先生](http://univdb.rikkyo.ac.jp/view?l=ja&u=100002214&k=%E5%AE%89%E7%94%B0%E3%80%80%E9%9B%85%E5%93%89&kc=1&sm=keyword&sl=ja&sp=1)
-
+* [名古屋大学 楫勇一先生](http://profs.provost.nagoya-u.ac.jp/view/html/100009250_ja.html)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](https://researchmap.jp/researchers?research_interests%5Bkeyword%5D=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3)
