@@ -126,6 +126,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [兵庫県立大学大学院 暗号・情報セキュリティ研究グループ　（五十部孝典先生）](https://www.ai.u-hyogo.ac.jp/~isobe/) 
 * [兵庫県立大学大学院 セキュアアーキテクチャ研究室　（栗原淳先生）](https://secarchlab.github.io/) 
 * [法政大学 金井敦研究室　（金井敦先生）](https://kanai-lab.k.hosei.ac.jp/)
+* [千葉大学 今泉研究室　（今泉貴史先生）](https://sites.google.com/site/imaizumilab/)
 * [東邦大学 金岡研究室　（金岡晃）](https://www.klab.is.sci.toho-u.ac.jp/)
 
 ## 自前の研究室Webページを持たない先生方
