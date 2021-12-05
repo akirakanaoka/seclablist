@@ -173,6 +173,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [立教大学 安田雅哉先生](http://univdb.rikkyo.ac.jp/view?l=ja&u=100002214&k=%E5%AE%89%E7%94%B0%E3%80%80%E9%9B%85%E5%93%89&kc=1&sm=keyword&sl=ja&sp=1)
 * [名古屋大学 楫勇一先生](http://profs.provost.nagoya-u.ac.jp/view/html/100009250_ja.html)
 * [早稲田大学 高島克幸先生](https://w-rdb.waseda.jp/html/100002901_ja.html)
+* [明星大学 小暮淳先生](https://www.iag.meisei-u.ac.jp/meuhp/KgApp?resId=S001191)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](https://researchmap.jp/researchers?research_interests%5Bkeyword%5D=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3)
