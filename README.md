@@ -174,6 +174,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [名古屋大学 楫勇一先生](http://profs.provost.nagoya-u.ac.jp/view/html/100009250_ja.html)
 * [早稲田大学 高島克幸先生](https://w-rdb.waseda.jp/html/100002901_ja.html)
 * [明星大学 小暮淳先生](https://www.iag.meisei-u.ac.jp/meuhp/KgApp?resId=S001191)
+* [東京都立大学 内山成憲先生](https://www.tmu.ac.jp/stafflist/data/a/316.html)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](https://researchmap.jp/researchers?research_interests%5Bkeyword%5D=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3)
