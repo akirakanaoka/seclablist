@@ -156,8 +156,8 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [北九州市立大学　佐藤敬先生](https://www.kitakyu-u.ac.jp/env/faculty/d-media/introduction/takashi-satoh.html)
 * [鳴門教育大学　曽根直人先生](http://www.naruto-u.ac.jp/edb/researcher/2010121603552/)
 * [国立情報学研究所　高倉弘喜先生](http://www.takakura.com/hiroki/)
-* [長崎県立大学　情報セキュリティ学科](http://sun.ac.jp/siebold/sec/)
-    - 日下部茂先生、小松文子先生、チャットウィチェンチャイ ソムチャイ先生、松崎なつめ先生、加藤雅彦先生、山口文彦先生、穴田啓晃先生、岡田雅之先生、喜多義弘先生、齋藤正也先生、星野文学先生、島成佳先生、小林信博先生
+* [長崎県立大学　情報セキュリティ学科](https://sun.ac.jp/department/systems/security/)
+    - 日下部茂先生、チャットウィチェンチャイ ソムチャイ先生、松崎なつめ先生、加藤雅彦先生、山口文彦先生、岡田雅之先生、喜多義弘先生、齋藤正也先生、星野文学先生、島成佳先生、小林信博先生、福光正幸先生、寺田剛陽先生
 * [津田塾大学　大塚亜未先生](http://kgpublic.tsuda.ac.jp/view?l=ja&u=100000389&a2=0000001&a3=0000004&k=%E5%A4%A7%E5%A1%9A&kc=1&o=namea&pp=10&sm=affiliation&sl=ja&sp=1)
 * [工学院大学　セキュリティ科学研究室（藤川真樹先生）](https://www.kogakuin.ac.jp/faculty/lab/info_lab147.html)
 * [工学院大学　サイバーセキュリティ研究室（小林良太郎先生）](https://www.kogakuin.ac.jp/faculty/lab/info_lab148.html)
