@@ -51,7 +51,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [東京大学 品川研究室　（品川高廣先生）](http://www.os.ecc.u-tokyo.ac.jp/)
 * [東京大学 関谷研究室　（関谷勇司先生）](https://www.sekiya-lab.info/)
 * [東京大学 山口利恵研究室　（山口利恵先生、Mhd Irvan先生）](http://www.yamagula.ic.i.u-tokyo.ac.jp/)
-* [東京大学 高木研究室　（高木剛先生、工藤桃成先生）](http://crypto.mist.i.u-tokyo.ac.jp/)
+* [東京大学 高木研究室　（高木剛先生、高安敦先生、相川勇輔先生、小貫啓史先生）](http://crypto.mist.i.u-tokyo.ac.jp/)
 * [東京大学 宮本大輔研究室　（宮本大輔先生）](https://www.iplove.net/)
 * [京都工芸繊維大学 情報セキュリティ研究室　（稲葉宏幸先生、Lu Chen先生）](http://www.sec.is.kit.ac.jp/)
 * [名古屋大学 情報セキュリティ研究グループ　（岩田哲先生）](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/top-j.html)
@@ -175,6 +175,7 @@ Webページを持っていることが確認できた研究室だけ掲載し�
 * [早稲田大学 高島克幸先生](https://w-rdb.waseda.jp/html/100002901_ja.html)
 * [明星大学 小暮淳先生](https://www.iag.meisei-u.ac.jp/meuhp/KgApp?resId=S001191)
 * [東京都立大学 内山成憲先生](https://www.tmu.ac.jp/stafflist/data/a/316.html)
+* [福岡工業大学 工藤桃成先生](https://www.fit.ac.jp/research/search/profile/id/328)
 
 ## その他
 [ResearchMapで研究キーワードに「セキュリティ」を含んだ研究者](https://researchmap.jp/researchers?research_interests%5Bkeyword%5D=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3)
